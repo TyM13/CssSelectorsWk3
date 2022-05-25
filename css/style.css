@@ -47,3 +47,13 @@ p:active{
 h3:active{
     color: hotpink;
 }
+
+a:link{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+a:visited{
+    color: darkorchid;
+    font-size: smaller;
+}
