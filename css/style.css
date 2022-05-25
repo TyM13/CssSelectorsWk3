@@ -31,3 +31,19 @@ p,nav,a
 .center_text{
     text-align: center;
 }
+
+h1:hover{
+    font-size: 25px;
+}
+
+img:hover{
+    filter: opacity(0);
+}
+
+p:active{
+    font-family: cursive;
+}
+
+h3:active{
+    color: hotpink;
+}
