@@ -1,6 +1,7 @@
 header>h1 
 {
     font-style: italic;
+    background-color: rgb(252, 1, 1);
 }
 
 div>p
@@ -16,4 +17,17 @@ p,h3,nav,a
 p,nav,a
 {
     font-weight: bolder;
+}
+
+
+
+.blue_text{
+    color: rgb(47, 0, 255);}
+
+.itallic_text{
+    font-style: italic;
+}
+
+.center_text{
+    text-align: center;
 }
