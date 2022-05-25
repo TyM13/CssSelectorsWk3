@@ -1,0 +1,19 @@
+header>h1 
+{
+    font-style: italic;
+}
+
+div>p
+{
+color: firebrick;
+}
+
+p,h3,nav,a
+{
+    text-align: center;
+}
+
+p,nav,a
+{
+    font-weight: bolder;
+}
